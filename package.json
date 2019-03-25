@@ -1,0 +1,10 @@
+{
+  "name": "scotia-sudoku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Danny Dechtiar",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
